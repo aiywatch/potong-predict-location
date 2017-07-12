@@ -1,0 +1,1 @@
+log_timestamp,lat_FromGnss,lng_FromGnss,GNSS_linear_ref,GNSS_TimeStamp,lat_FromDTC,lng_FromDTC,DTC_linear_ref,DTC_TimeStamp,pong_predicted_linear_ref,bus_line,vehicle_id,type

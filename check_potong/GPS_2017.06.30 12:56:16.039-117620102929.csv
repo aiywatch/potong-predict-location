@@ -1,0 +1,2 @@
+log_timestamp,lat_FromGnss,lng_FromGnss,GNSS_linear_ref,GNSS_TimeStamp,lat_FromDTC,lng_FromDTC,DTC_linear_ref,DTC_TimeStamp,pong_predicted_linear_ref,bus_line,vehicle_id,type
+2017.06.30 12:56:20,7.8842205,98.39565033333334,,2017-06-30T12:03:34.800000+07:00,7.883567,98.391583,,2017-06-30T12:03:19.096000+07:00,0.0046527509119403945,3,117620102929,high
